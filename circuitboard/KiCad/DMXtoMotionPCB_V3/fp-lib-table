@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "DMXtoMotionPCB-v2")(type "KiCad")(uri "$(KIPRJMOD)/DMXtoMotionPCB_V3.pretty")(options "")(descr ""))
+)

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "screenModule-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/screenModule-eagle-import.kicad_sym")(options "")(descr ""))
+)

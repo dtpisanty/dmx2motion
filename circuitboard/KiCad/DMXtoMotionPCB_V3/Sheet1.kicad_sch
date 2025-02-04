@@ -9761,9 +9761,9 @@
 		)
 		(uuid "6d8d5c64-5713-4077-9cb6-1a3522145067")
 	)
-	(text "AM1D-0505SH60"
+	(text "TEA 1-0505E"
 		(exclude_from_sim no)
-		(at 195.319 24.13 0)
+		(at 196.85 24.13 0)
 		(effects
 			(font
 				(size 1.48 1.48)

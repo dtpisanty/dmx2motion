@@ -36,7 +36,7 @@
 			)
 		)
 		(instances
-			(project "DMXtoMotionPCB-v2"
+			(project "DMXtoMotionPCB_V3"
 				(path "/50d622b6-af87-48da-a02d-eb04a0a26ba1"
 					(page "2")
 				)
@@ -74,7 +74,7 @@
 			)
 		)
 		(instances
-			(project "DMXtoMotionPCB-v2"
+			(project "DMXtoMotionPCB_V3"
 				(path "/50d622b6-af87-48da-a02d-eb04a0a26ba1"
 					(page "1")
 				)

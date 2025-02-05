@@ -9431,9 +9431,9 @@
 		)
 		(uuid "10fce0c0-c60d-4dd8-99be-f87dafe1f8ec")
 	)
-	(text "\" \""
+	(text "6N137M"
 		(exclude_from_sim no)
-		(at 160.274 113.538 0)
+		(at 157.988 113.792 0)
 		(effects
 			(font
 				(size 1.48 1.48)
@@ -9871,7 +9871,7 @@
 		)
 		(uuid "9740e469-fd73-45d3-a344-ea37313d9d2c")
 	)
-	(text "L78S05CV"
+	(text "LM78M05CT"
 		(exclude_from_sim no)
 		(at 263.475 21.59 0)
 		(effects
@@ -10886,7 +10886,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "L78S05CV"
+		(property "Value" "LM78M05CT"
 			(at 269.24 26.67 0)
 			(effects
 				(font
@@ -11706,7 +11706,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "6N137M_10"
+		(property "Value" "6N137M"
 			(at 162.56 120.65 0)
 			(effects
 				(font
@@ -12783,7 +12783,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "6N137M_10"
+		(property "Value" "6N137M"
 			(at 162.56 140.97 0)
 			(effects
 				(font

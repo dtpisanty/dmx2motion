@@ -2,12 +2,12 @@ Id,Designator,Footprint,Quantity,Designation,Manufacturer and ref,Link proveedor
 1,U1,SIP-4(7)_19.5x6x2.54,1,TEA 1-0505E,Traco Power TEA 1-0505E,https://www.digikey.com.mx/en/products/detail/traco-power/TEA-1-0505E/12093309,0.5
 2,"J4,J6,J7,J8,J9,J10",HDR-1x2_J6,6,A0,Molex 0022232021,https://www.digikey.com.mx/en/products/detail/molex/0022232021/26667,1.02
 3,"R13,R5,R4,R6",R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,4,470Ω,TE CRGCQ1206F470R,https://www.digikey.com.mx/en/products/detail/te-connectivity-passive-product/CRGCQ1206F470R/8576408,
-4,C5,CP_Elec_4x5.3,1,10uF,,,
-5,"R3,R1,R2",R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,3,330Ω,Yageo RC1206JR-07330RL,https://www.digikey.com.mx/en/products/detail/yageo/RC1206JR-07330RL/729279,
+4,C5,CP_Elec_4x5.3,1,10uF,Nichicon UWZ1C100MCL1GB,https://www.digikey.com.mx/es/products/detail/nichicon/UWZ1C100MCL1GB/2550873,
+5,"R1,R2,R3",R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,3,330Ω,Yageo RC1206JR-07330RL,https://www.digikey.com.mx/en/products/detail/yageo/RC1206JR-07330RL/729279,
 6,"C1,C7,C8,C9,C3,C2,C6",C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,7,0.1uF,"	
 Walsin Technology Corporation 1206B104K500CT",https://www.digikey.com.mx/en/products/detail/walsin-technology-corporation/1206B104K500CT/9355102,
 7,"VO1,VO2,VO3",DIP-8,3,6N137,Everlight 6N137,https://agelectronica.com/detalle?busca=6N%20137,0.56
-8,C4,CP_Elec_4x5.3,1,4.7,,,
+8,C4,CP_Elec_4x5.3,1,4.7,Nichicon UWP1C4R7MCL1GB,https://www.digikey.com.mx/es/products/detail/nichicon/UWP1C4R7MCL1GB/2550788,
 9,J5,HDR-1x6,1,INTERFACE,Molex 0022232061,https://www.digikey.com.mx/en/products/detail/molex/0022232061/26675?s=N4IgTCBcDaIAxzEgzGOA2AjCAugXyA,1.02
 10,"R19,R21",R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,2,2KΩ,Yageo RC1206FR-072KL,https://www.digikey.com.mx/en/products/detail/yageo/RC1206FR-072KL/728612,
 11,J1,BarrelJack_Horizontal,1,12V In,Same sky PJ-002AH,https://www.digikey.com.mx/en/products/detail/same-sky-formerly-cui-devices/PJ-002AH/408446,
@@ -16,11 +16,10 @@ Walsin Technology Corporation 1206B104K500CT",https://www.digikey.com.mx/en/prod
 14,"J2,J3",HDR-1x3,2,XLR3 OUT,Molex 22232031,https://www.digikey.com.mx/en/products/detail/molex/0022232031/26669,1.02
 15,U5,DIP-8,1,LM358N,STM LM358N,https://agelectronica.com/detalle?busca=LM%20358N,
 16,VO4,DIP-16,1,PC847,Sharp PC847,https://agelectronica.com/detalle?busca=PC%20847X,
-17,S4,HDRF-1x3T_2.54_8x3,1,MODE,E-Switch EG1218,https://www.digikey.com.mx/en/products/detail/e-switch/EG1218/101726,
+17,"S3,S4",HDRF-1x3T_2.54_8x3,2,MODE,E-Switch EG1218,https://www.digikey.com.mx/en/products/detail/e-switch/EG1218/101726,1
 18,"R8,R7",R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,2,680Ω,Yageo RC1206JR-07680RL,https://www.digikey.com.mx/en/products/detail/yageo/RC1206JR-07680RL/729328,
 19,"R20,R10,R9,R18",R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,4,1KΩ,Yageo RC1206FR-071KL,https://www.digikey.com.mx/en/products/detail/yageo/RC1206FR-071KL/728387,
 20,U6,ESP32-DevKitC,1,ESP32-WROOM-32U,N/A,N/A,
-21,U4,TO-220V,1,L78S05CV ,STM L78S05CV ,https://agelectronica.com/detalle?busca=L78S05CV,
+21,U4,TO-220V,1,L78S05CV,STM L78S05CV,https://agelectronica.com/detalle?busca=L78S05CV,
 22,R12,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,1,220Ω,Yageo RC1206JR-07220RL,https://www.digikey.com.mx/en/products/detail/yageo/RC1206JR-07220RL/729251,
 23,D1,LED100,1,LED,Kingbright WP7113GD,https://www.digikey.com.mx/en/products/detail/kingbright/WP7113GD/1747662,0.9
-24,S3,HDRF-1x3T_2.54_8x3,1,SWITCH_SPDT,E-Switch EG1218,https://www.digikey.com.mx/en/products/detail/e-switch/EG1218/101726,0.7

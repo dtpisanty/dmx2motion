@@ -13,8 +13,8 @@ Id,Designator,Footprint,Quantity,Designation,Supplier and ref,Digikey,Diam
 12,U2,DIP-8,1,MAX485CPA,Maxim Integrated MAX485CPA+,https://www.digikey.com.mx/en/products/detail/analog-devices-inc-maxim-integrated/MAX485CPA/948026?msockid=3a9d740326f6639b1802671b27b7620c,0.58
 13,"R14,R15,R17,R16",R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,4,39Ω,Yageo RC1206JR-0739RL,https://www.digikey.com.mx/en/products/detail/yageo/RC1206JR-0739RL/729289,
 14,"J2,J3",HDR-1x3,2,XLR3 OUT,Molex 22232031,https://www.digikey.com.mx/en/products/detail/molex/0022232031/26669,1.02
-15,U5,DIP-8,1,LM358N,,,0.53
-16,VO4,DIP-16,1,PC847,,,0.5
+15,U5,DIP-8,1,LM2904N,Taejin LM2904N,https://www.digikey.com.mx/en/products/detail/taejin/LM2904N/22237518,
+16,VO4,DIP-16,1,PC847,0.5,,
 17,S4,HDRF-1x3T_2.54_8x3,1,MODE,,,
 18,"R8,R7",R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,2,680Ω,Yageo RC1206JR-07680RL,https://www.digikey.com.mx/en/products/detail/yageo/RC1206JR-07680RL/729328,
 19,"R20,R10,R9,R18",R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,4,1KΩ,Yageo RC1206FR-071KL,https://www.digikey.com.mx/en/products/detail/yageo/RC1206FR-071KL/728387,

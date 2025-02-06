@@ -7501,7 +7501,7 @@
 				)
 			)
 		)
-		(property "Value" "LM78M05CT"
+		(property "Value" "L78S05CV "
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -7602,7 +7602,7 @@
 			(layer "F.SilkS")
 			(uuid "76afbacd-017c-4c04-af21-db85a8f60a03")
 		)
-		(fp_text user "LM78M05CT"
+		(fp_text user "L78S05CV "
 			(at -4.0261 -3.1961 0)
 			(unlocked yes)
 			(layer "F.SilkS")
